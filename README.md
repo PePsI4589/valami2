@@ -1,1 +1,1 @@
-# valami2
+#IKTprojekt10a_24
